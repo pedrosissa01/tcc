@@ -35,12 +35,12 @@ const closedModal = () => {
                 <div class="flex justify-between">
                     <div class="flex items-start">
                         <div class="flex items-center h-5">
-                            <input id="remember" type="checkbox" v-model="deleteStatus" value="true" class="w-4 h-4 border border-gray-300 rounded bg-gray-50 focus:ring-3 focus:ring-orange-300 dark:bg-gray-600 dark:border-gray-500 dark:focus:ring-orange-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800" required />
+                            <input id="remember" type="checkbox" v-model="deleteStatus" value="true" class="w-4 h-4 border border-gray-300 rounded bg-gray-50 focus:ring-3 focus:ring-orange-300" required />
                         </div>
                         <label for="remember" class="ms-2 text-sm font-medium text-white">Desejo apagar essa noticia</label>
                     </div>
                 </div>
-                <button type="submit" :disabled="deleteStatus == false" :class="deleteStatus == false ? 'disabled:bg-gray-500 cursor-not-allowed' : ''" class="w-full text-white bg-orange-500 hover:bg-orange-400 focus:ring-4 focus:outline-none focus:ring-orange-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-800">Apagar Noticia</button>
+                <button type="submit" :disabled="deleteStatus == false" :class="deleteStatus == false ? 'disabled:bg-gray-500 cursor-not-allowed' : ''" class="w-full text-white bg-orange-500 hover:bg-orange-400 focus:ring-4 focus:outline-none focus:ring-orange-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Apagar Noticia</button>
             </form>
             <!-- <template #footer>
             <Placeholder class="h-8" />

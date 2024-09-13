@@ -25,7 +25,7 @@
         <div class="grid grid-cols-4 gap-3 mb-3">
             <div class="col-span-3">
                 <div class="inline-flex items-center justify-center w-full">
-                    <hr class="w-full h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
+                    <hr class="w-full h-px my-8 bg-gray-200 border-0">
                     <span class="absolute px-5 font-medium text-gray-900 text-center bg-[#F9F9F9]">Últimas notícias</span>
                 </div>
                 <div class="grid grid-cols-2 gap-3">
@@ -100,7 +100,7 @@
         </div>
         <div>
             <div class="inline-flex items-center justify-center w-full">
-                <hr class="w-full h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
+                <hr class="w-full h-px my-8 bg-gray-200 border-0">
                 <span class="absolute px-5 font-medium text-gray-900 text-center bg-[#F9F9F9]">Mais uma novidade</span>
             </div>
             <div class="grid grid-cols-2 gap-3">
@@ -114,7 +114,7 @@
         </div>
         <div>
             <div class="inline-flex items-center w-full">
-                <hr class="w-full h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
+                <hr class="w-full h-px my-8 bg-gray-200 border-0">
                 <span class="absolute pr-5 font-medium text-gray-900 bg-[#F9F9F9]">Mais uma novidade</span>
             </div>
             <div class="grid grid-cols-5 gap-3">

@@ -5,9 +5,9 @@
         </a>
         <div class="px-3 pt-1">
             <a href="#">
-                <h5 class="mb-2 text-sm font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+                <h5 class="mb-2 text-sm font-bold tracking-tight text-gray-900">Noteworthy technology acquisitions 2021</h5>
             </a>
-            <p class="mb-3 font-normal text-sm text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+            <p class="mb-3 font-normal text-sm text-gray-700">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         </div>
     </div>
 </template>
