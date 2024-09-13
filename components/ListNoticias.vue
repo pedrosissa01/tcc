@@ -46,34 +46,34 @@
                                 </span>em Ipsum
                             </h2>
                             <ol class="space-y-2 list-decimal list-inside">
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #HTML5
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #CSS3
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #JavaScript
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #jQuery
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #Bootstrap
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #Responsive
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #Autelrure
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #Volupetate
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #Veit
                                 </li>
-                                <li class="cursor-pointer hover:text-orange-500 hover:underline hover:underline-offset-4">
+                                <li class="cursor-pointer text-black hover:text-orange-500 hover:underline hover:underline-offset-4">
                                     #Reprehenderite
                                 </li>
                             </ol>
