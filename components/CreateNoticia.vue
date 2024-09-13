@@ -82,7 +82,7 @@ const options = ref({
                     <QuillEditor 
                         :options="options"
                         contentType="html"
-                        class="rounded-b-lg"/>
+                        class="rounded-b-lg text-black"/>
                 </div>
             </div>
         </form>
