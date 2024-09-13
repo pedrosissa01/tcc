@@ -73,7 +73,7 @@ const key = ref(1)
                                     07/09/2022
                                 </td>
                                 <td class="px-6 py-4">
-                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-orange-500 dark:focus:border-orange-500">
+                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2">
                                         <option>Em Análise</option>
                                         <option>Postado</option>
                                         <option selected>Reprovado</option>
@@ -86,7 +86,7 @@ const key = ref(1)
                                     <Icon @click="isOpenDelete = true, key++" name="material-symbols:delete-rounded" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10" />
                                 </td>
                             </tr>
-                            <tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+                            <tr class="odd:bg-white even:bg-gray-50 border-b">
                                 <th scope="row" class="px-6 py-4 font-medium underline decoration-cyan-700 text-cyan-700 whitespace-nowrap cursor-pointer">
                                     Noticia 02
                                 </th>
@@ -102,7 +102,7 @@ const key = ref(1)
                                     04/09/2022
                                 </td>
                                 <td class="px-6 py-4">
-                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-orange-500 dark:focus:border-orange-500">
+                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2">
                                         <option selected>Em Análise</option>
                                         <option>Postado</option>
                                         <option>Reprovado</option>
@@ -115,7 +115,7 @@ const key = ref(1)
                                     <Icon @click="isOpenDelete = true, key++" name="material-symbols:delete-rounded" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10" />
                                 </td>
                             </tr>
-                            <tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+                            <tr class="odd:bg-white even:bg-gray-50 border-b">
                                 <th scope="row" class="px-6 py-4 font-medium underline decoration-cyan-700 text-cyan-700 whitespace-nowrap cursor-pointer">
                                     Noticia 03
                                 </th>
@@ -131,7 +131,7 @@ const key = ref(1)
                                     04/09/2022
                                 </td>
                                 <td class="px-6 py-4">
-                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-orange-500 dark:focus:border-orange-500">
+                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2">
                                         <option>Em Análise</option>
                                         <option selected>Postado</option>
                                         <option>Reprovado</option>

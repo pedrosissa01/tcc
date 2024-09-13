@@ -72,7 +72,7 @@ definePageMeta({
                 Ut est elit, vehicula tempus volutpat ut, sodales eget odio. Nunc placerat, orci ac iaculis feugiat, sem tellus efficitur tortor, mollis iaculis lacus ante nec risus. Sed consequat vehicula pretium.    
             </p>
             <div class="inline-flex items-center justify-center w-full my-3">
-                <hr class="w-full h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
+                <hr class="w-full h-px my-8 bg-gray-200 border-0">
                 <span class="absolute px-5 font-medium text-gray-900 text-center bg-[#F9F9F9]">Autor</span>
             </div>
             <div class="grid grid-cols-4 gap-3">
@@ -92,7 +92,7 @@ definePageMeta({
                 </div>
             </div>
             <div class="inline-flex items-center justify-center w-full my-3">
-                <hr class="w-full h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
+                <hr class="w-full h-px my-8 bg-gray-200 border-0">
                 <span class="absolute px-5 font-medium text-gray-900 text-center bg-[#F9F9F9]">Ultimas Noticias</span>
             </div>
             <div class="grid grid-cols-2 gap-3">

@@ -58,7 +58,7 @@ const key = ref(1)
                                     07/09/2022
                                 </td>
                                 <td class="px-6 py-4">
-                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-orange-500 dark:focus:border-orange-500">
+                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2">
                                         <option selected>Admin</option>
                                         <option>Editor</option>
                                         <option>Usuário</option>
@@ -70,7 +70,7 @@ const key = ref(1)
                                     <Icon name="solar:lock-password-bold" @click="isOpenPassword = true, key++" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10" />
                                 </td>
                             </tr>
-                            <tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+                            <tr class="odd:bg-white even:bg-gray-50 border-b">
                                 <td class="px-6 py-4">
                                     João A. P. da Costa
                                 </td>
@@ -78,7 +78,7 @@ const key = ref(1)
                                     04/09/2022
                                 </td>
                                 <td class="px-6 py-4">
-                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-orange-500 dark:focus:border-orange-500">
+                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2">
                                         <option>Admin</option>
                                         <option selected>Editor</option>
                                         <option>Usuário</option>
@@ -90,7 +90,7 @@ const key = ref(1)
                                     <Icon name="solar:lock-password-bold" @click="isOpenPassword = true, key++" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10" />
                                 </td>
                             </tr>
-                            <tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+                            <tr class="odd:bg-white even:bg-gray-50 border-b">
                                 <td class="px-6 py-4">
                                     Silvio Pedro Augusto
                                 </td>
@@ -98,7 +98,7 @@ const key = ref(1)
                                     04/09/2022
                                 </td>
                                 <td class="px-6 py-4">
-                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-orange-500 dark:focus:border-orange-500">
+                                    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-orange-500 focus:border-orange-500 block w-full p-2">
                                         <option>Admin</option>
                                         <option selected>Editor</option>
                                         <option>Usuário</option>
