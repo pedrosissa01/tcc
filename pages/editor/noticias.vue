@@ -7,6 +7,9 @@ definePageMeta({
     layout: "editor",
     name: "MetaVerso - editor - Noticias",
 })
+
+const isOpenDelete = ref(false)
+const key = ref(1)
 </script>
 <template>
     <div>
@@ -80,7 +83,7 @@ definePageMeta({
                                     <NuxtLink to="/editor/novo/10">
                                         <Icon name="material-symbols:edit-square" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10 mr-2" />
                                     </NuxtLink>
-                                    <Icon name="material-symbols:delete-rounded" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10" />
+                                    <Icon @click="isOpenDelete = true, key++" name="material-symbols:delete-rounded" class="text-gray-500 cursor-pointer hover:text-orange-500 h-10" />
                                 </td>
                             </tr>
                         </tbody>
@@ -89,4 +92,5 @@ definePageMeta({
             </div>
         </div>
     </div>
+    <ModalDeleteNoticia :isOpen="isOpenDelete" :key="key" @closed="isOpenDelete = false, key++"/>
 </template>
