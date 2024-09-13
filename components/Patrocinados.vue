@@ -1,6 +1,6 @@
 <template>
     <div class="w-full bg-white h-max p-2 border-t-2 border-orange-500 rounded">
-        <h3 class=" text-center flex items-center justify-center mb-3">
+        <h3 class=" text-center text-black flex items-center justify-center mb-3">
             <Icon name="material-symbols:ads-click" class="mr-1 text-orange-500"/>
             <span class="mr-0.2 underline underline-offset-4 decoration-2 decoration-orange-500">
                 Pat
